@@ -6,7 +6,7 @@
 일상적인 업무 및 일정 관리를 효율적으로 돕는 것을 목표로 했습니다.
 
 커밋 기록 등등 확인하려면 아래 링크를 확인해주세요.
-https://github.com/Coding-matzip/To-do
+- https://github.com/Coding-matzip/To-do
 
 ---
 
